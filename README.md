@@ -1,4 +1,4 @@
-# coding_examples
+# freeCodeCamp solutions
 My solutions to example coding problems in JavaScript.
 These coding problems were part of the freeCodeCamp tutorials
 
