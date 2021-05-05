@@ -7,3 +7,4 @@
 * spinalCase: return lowercase string with all tokens removed and dashes between words
 * translatePigLatin: move consonants to end of word and add either "way" or "ay" based on the first character
 * myReplace: replaces a specific word in a string with another word, while considering uppercase/lowercase first letters
+* pairElements: complete DNA with corresponding base pairs
