@@ -4,3 +4,4 @@
 * diffArray: return the difference between two arrays
 * destroyer: remove all parameter values from the array
 * whatIsInAName: return items from collection if they match search criteria
+* spinalCase: return lowercase string with all tokens removed and dashes between words
