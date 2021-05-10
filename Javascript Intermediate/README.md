@@ -11,4 +11,4 @@
 * fearNotLetter: searches for missing letter in successive set of letters
 
 
-Some of these problems were also solved in Python, these solutions can be found in the "pythonversions" directory. 
+Some of these problems were also solved in Python, these solutions can be found in the [pythonversions](https://github.com/MerelAW/freeCodeCamp/tree/main/Javascript%20Intermediate/pythonversions) directory. 
