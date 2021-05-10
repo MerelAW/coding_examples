@@ -9,6 +9,7 @@
 * [myReplace](https://github.com/MerelAW/freeCodeCamp/blob/main/Javascript%20Intermediate/myReplace.js): replaces a specific word in a string with another word, while considering uppercase/lowercase first letters
 * [pairElement](https://github.com/MerelAW/freeCodeCamp/blob/main/Javascript%20Intermediate/pairElement.js): complete DNA with corresponding base pairs
 * [fearNotLetter](https://github.com/MerelAW/freeCodeCamp/blob/main/Javascript%20Intermediate/fearNotLetter.js): searches for missing letter in successive set of letters
+* [uniteUniques](https://github.com/MerelAW/freeCodeCamp/blob/main/Javascript%20Intermediate/uniteUnique.js): merge multiple arrays into an array of unique elements
 
 
 Some of these problems were also solved in Python, these solutions can be found in the [pythonversions](https://github.com/MerelAW/freeCodeCamp/tree/main/Javascript%20Intermediate/pythonversions) directory. 
