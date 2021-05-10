@@ -13,3 +13,20 @@ function uniteUnique(arr) {
 }
 
 console.log(uniteUnique([1, 3, 2], [5, 2, 1, 4], [2, 1]));
+
+
+// different solution, with reduce and filter
+
+function uniteUnique2(arr) {
+    let arrays = [...arguments];
+    
+    let uniques = arrays.reduce(function(a,b){
+        return a.concat(b.filter(function(i){
+            return !(i in a);
+        }));
+    });
+
+    return uniques;
+}
+  
+console.log(uniteUnique2([1, 3, 2], [5, 2, 1, 4], [2, 1]));
