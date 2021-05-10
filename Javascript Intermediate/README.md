@@ -9,3 +9,6 @@
 * myReplace: replaces a specific word in a string with another word, while considering uppercase/lowercase first letters
 * pairElements: complete DNA with corresponding base pairs
 * fearNotLetter: searches for missing letter in successive set of letters
+
+
+Some of these problems were also solved in Python, these solutions can be found in the "pythonversions" directory. 
