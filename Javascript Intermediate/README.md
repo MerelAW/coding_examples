@@ -20,3 +20,7 @@
 18. [truthCheck](https://github.com/MerelAW/freeCodeCamp/blob/main/Javascript%20Intermediate/truthCheck.js): check if predicate is truthy on all elements in collection
 
 Some of these problems were also solved in Python, these solutions can be found in the [pythonversions](https://github.com/MerelAW/freeCodeCamp/tree/main/Javascript%20Intermediate/pythonversions) directory. 
+
+## Final JavaScript Projects (5)
+
+1. [palindrome](https://github.com/MerelAW/freeCodeCamp/blob/main/Javascript%20Intermediate/palindrome.js): check if a string is a palindrome
