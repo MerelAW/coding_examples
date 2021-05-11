@@ -13,5 +13,6 @@
 * [convertHTML](https://github.com/MerelAW/freeCodeCamp/blob/main/Javascript%20Intermediate/convertHTML.js): search for several tokens in a string and replace with HTML version
 * [sumFibs](https://github.com/MerelAW/freeCodeCamp/blob/main/Javascript%20Intermediate/sumFibs.js): sum all odd fibonacci numbers up to given integer
 * [sumPrimes](https://github.com/MerelAW/freeCodeCamp/blob/main/Javascript%20Intermediate/sumPrimes.js): sum all prime numbers up to given integer
+* [smallestCommons](https://github.com/MerelAW/freeCodeCamp/blob/main/Javascript%20Intermediate/smallestCommons.js): find smallest common multiple of two numbers and every number within their range
 
 Some of these problems were also solved in Python, these solutions can be found in the [pythonversions](https://github.com/MerelAW/freeCodeCamp/tree/main/Javascript%20Intermediate/pythonversions) directory. 
