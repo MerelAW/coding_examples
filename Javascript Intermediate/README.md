@@ -17,5 +17,6 @@
 15. [dropElements](https://github.com/MerelAW/freeCodeCamp/blob/main/Javascript%20Intermediate/dropElements.js): find index of first element for which function returns true and remove the elements before that
 16. [steamrollArray](https://github.com/MerelAW/freeCodeCamp/blob/main/Javascript%20Intermediate/steamrollArray.js): flatten array with unknown nesting
 17. [binaryAgent](https://github.com/MerelAW/freeCodeCamp/blob/main/Javascript%20Intermediate/binaryAgent.js): convert binary string to English
+18. [truthCheck](https://github.com/MerelAW/freeCodeCamp/blob/main/Javascript%20Intermediate/truthCheck.js): check if predicate is truthy on all elements in collection
 
 Some of these problems were also solved in Python, these solutions can be found in the [pythonversions](https://github.com/MerelAW/freeCodeCamp/tree/main/Javascript%20Intermediate/pythonversions) directory. 
